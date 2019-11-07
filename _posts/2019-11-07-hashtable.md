@@ -10,6 +10,8 @@ toc: true
 toc_label: "Unique Title"
 toc_icon: "heart"
 ---
+
+
 ### 문제설명
 수많은 마라톤 선수들이 마라톤에 참여하였습니다. 단 한 명의 선수를 제외하고는 모든 선수가 마라톤을 완주하였습니다.
 
@@ -27,6 +29,7 @@ toc_icon: "heart"
 | [leo, kiki, eden] | [eden, kiki] | leo|
 | [marina, josipa, nikola, vinko, filipa] | [josipa, filipa, marina, nikola] | vinko |
 | [mislav, stanko, mislav, ana] | [stanko, ana, mislav] | mislav |
+{: rules="groups"}
 
 ### 코드 입력
 ```javascript
