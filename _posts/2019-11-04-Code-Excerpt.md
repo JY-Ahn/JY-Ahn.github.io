@@ -2,7 +2,7 @@
 title: "Layout: Code Excerpt (Generated)"
 categories:
   - Layout
-  - Uncategorized
+  - test
 tags:
   - content
   - excerpt

@@ -294,3 +294,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+####################### My code
+category_list: [Layout, test, example, Post Formats, Edge Case]

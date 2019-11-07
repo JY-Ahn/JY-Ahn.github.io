@@ -2,6 +2,7 @@
 title: "HashTable: 완주하지 못한 선수"
 categories:
   - Post Formats
+  - test
 tags:
   - javascript
   - algorithm
