@@ -29,7 +29,7 @@ toc_icon: "heart"
 |leo, kiki, eden | eden, kiki | leo |
 |marina, josipa, nikola, vinko, filipa | josipa, filipa, marina, nikola | vinko |
 |mislav, stanko, mislav, ana | stanko, ana, mislav | mislav |
-{: rules="groups"}
+{: .table}
 
 ### 코드 입력
 ```javascript
