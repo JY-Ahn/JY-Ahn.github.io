@@ -25,13 +25,13 @@ toc_icon: "heart"
 
 ### 입출력 예
 participant | completion | return 
-:-------:   | :-------:  |:-------:
-[leo, kiki, eden] | [eden, kiki] | leo 
-[marina, josipa, nikola, vinko, filipa] | [josipa, filipa, marina, nikola] | vinko 
-[mislav, stanko, mislav, ana] | [stanko, ana, mislav] | mislav 
+:-------:|:-------:|:-------:
+leo, kiki, eden | eden, kiki | leo 
+marina, josipa, nikola, vinko, filipa | josipa, filipa, marina, nikola | vinko 
+mislav, stanko, mislav, ana | stanko, ana, mislav | mislav 
 {: rules="groups"}
 
-## 코드 입력
+### 코드 입력
 ```javascript
 function solution(participant, completion) {
     var answer = '';
