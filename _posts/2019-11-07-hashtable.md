@@ -27,9 +27,9 @@ toc_icon: "heart"
 
 | participant | completion | return |
 |:-------:|:-------:|:-------:|
-|leo, kiki, eden | eden, kiki | leo |
-|marina, josipa, nikola, vinko, filipa | josipa, filipa, marina, nikola | vinko |
-|mislav, stanko, mislav, ana | stanko, ana, mislav | mislav |
+|[leo, kiki, eden]|[eden, kiki]| leo |
+|[marina, josipa, nikola, vinko, filipa]|[josipa, filipa, marina, nikola]| vinko |
+|[mislav, stanko, mislav, ana]|[stanko, ana, mislav]| mislav |
 
 ### 코드 입력
 ```javascript
