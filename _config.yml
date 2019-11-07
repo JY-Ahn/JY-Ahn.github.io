@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "안준용 (Junyong Ahn)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profileimg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "반갑습니다."
   location         : "Seoul, South Korea"
   email            : "junyongsw92@gmail.com"
