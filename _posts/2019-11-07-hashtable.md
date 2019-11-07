@@ -31,7 +31,7 @@ participant | completion | return
 [mislav, stanko, mislav, ana] | [stanko, ana, mislav] | mislav 
 {: rules="groups"}
 
-### 코드 입력
+## 코드 입력
 ```javascript
 function solution(participant, completion) {
     var answer = '';
