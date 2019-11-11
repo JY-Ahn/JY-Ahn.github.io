@@ -14,7 +14,7 @@ categories:
 
 1. 설정 -> 지역 및 언어
 **'설정 -> 지역 및 언어'** 탭의 **입력 소스**에 다음과 같이 **한국어(Hangul)**을 추가한다.
-![inputsource_local&language](./assets/images/input1.png)
+![inputsource_local&language](/assets/images/input1.png)
 
 
 2. Next
