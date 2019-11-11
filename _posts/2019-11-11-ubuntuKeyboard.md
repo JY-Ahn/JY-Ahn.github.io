@@ -17,7 +17,7 @@ categories:
 
 ![inputsource_local&language](/assets/images/input1.png)
 
-### 1. 한국어(Hangul) IBus 한글 설정
+### 2. 한국어(Hangul) IBus 한글 설정
 - 한국어(Hangul)을 선택하고 설정 버튼을 누른다
 - 한글(H) 탭 : 한영전환키 상자에 다음과 같이 설정(Hangul)
 - 고급(V) 탭 : 104 키보드(K) 를 체크
@@ -26,4 +26,9 @@ categories:
 ![input2](/assets/images/input2.png) | ![input3](/assets/images/input3.png)
 
 
-### 1. Next
+### 3. 설치된 언어 관리
+ - **'설정 -> 지역 및 언어'** 탭에서 우측 하단의 **설치된 언어 관리** 선택
+ - **한국어**가 설치되어 있는지 확인 -> 설치돼지 않았다면 **언어 설치/제거...**를 눌러 설치한다
+ - 키보드 입력기: **nimf**로 설정
+
+ ![ddddd](/assets/images/ddddd.png)
