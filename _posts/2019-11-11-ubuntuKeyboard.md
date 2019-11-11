@@ -17,13 +17,14 @@ categories:
 
 ![inputsource_local&language](/assets/images/input1.png)
 
-# 1. 한국어(Hangul) IBus 한글 설정
+### 1. 한국어(Hangul) IBus 한글 설정
 - 한국어(Hangul)을 선택하고 설정 버튼을 누른다
 - 한글(H) 탭 : 한영전환키 상자에 다음과 같이 설정(Hangul)
 - 고급(V) 탭 : 104 키보드(K) 를 체크
+
 |
  :-----:|:-----:
-![input2](/assets/images/input2.png) ![input3](/assets/images/input3.png)
+![input2](/assets/images/input2.png) | ![input3](/assets/images/input3.png)
 
 
-# 1. Next
+### 1. Next
