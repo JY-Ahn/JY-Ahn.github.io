@@ -37,6 +37,8 @@ categories:
 3번까지 모두 실행했음에도, 한글을 입력 했을 시 자음과 모음이 분리되는 현상이 발생했습니다. 리눅스를 사용하다보면, 아무래도 무료 OS이기 때문에 사소한 부분에서 오류가 날 수 있다고 합니다.
 이는 nimf를 설치하여 해결할 수 있습니다. terminal에서 다음과 같이 입력합니다.
 
+![seperated](/assets/images/seperate.png)
+
 1. Repository 추가  
 *sudo add-apt-repository ppa:hodong/nimf*
 2. Repository Update  
@@ -46,5 +48,8 @@ categories:
 4. 입력기 설정  
 *im-config -n nimf*
 
-![seperated](/assets/images/seperate.png)
+### 한영 전환 방법 및 빈틈
+**"ctrl+shift"** 를 통해서 한/영 전환을 하실 수 있습니다.사실 완벽한 방법은 아닙니다. 주로 쓰는 프로그램으로 Slack 과 Zoom이 있는데, Slack에서는 정상적으로 입력이 되는 반면에
+Zoom에서는 한글이 입력되지 않습니다. 한글 입력기(nfim 혹은 IBus)에 Zoom이 포함되지 않아서 그런 것 같습니다.
+
 
